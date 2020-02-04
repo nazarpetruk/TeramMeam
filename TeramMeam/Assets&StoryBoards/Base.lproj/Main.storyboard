@@ -41,6 +41,9 @@
                     </view>
                     <navigationItem key="navigationItem" title="Meam Categories" id="qtn-0p-D4I"/>
                     <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO"/>
+                    <connections>
+                        <outlet property="tableView" destination="p8c-SD-rRE" id="hJS-91-BVD"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
